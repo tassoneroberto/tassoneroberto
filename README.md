@@ -11,7 +11,7 @@ Software Engineer and Web Developer
 - 🤖 Bots
 - 🚀 Rocket science
 
-Current job position: <span><em>Software Engineer at <a href="https://proton.me">Proton Technologies AG</a></em></span>
+Current job position: <span><em>Software Engineer at <a href="https://proton.me">Proton AG</a></em></span>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/roberto_tassone?label=Follow)](https://twitter.com/intent/follow?screen_name=roberto_tassone)
 [![Linkedin: robertotassone](https://img.shields.io/badge/-robertotassone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertotassone/)](https://www.linkedin.com/in/robertotassone/)
