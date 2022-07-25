@@ -7,11 +7,11 @@ Software Engineer and Web Developer
 ## Interests
 
 - 👨‍💻 Cybersecurity
-- <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png" width="18"> BTC
+- <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png" width="18"> Crypto
 - 🤖 Bots
-- 🚀 Rocket science
+- 🚀 Space science
 
-Current job position: <span><em>Software Engineer at <a href="https://proton.me">Proton AG</a></em></span>
+Currently working as a <span><em>Software Engineer</em> at <a href="https://proton.me">Proton AG</a>.</span>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/roberto_tassone?label=Follow)](https://twitter.com/intent/follow?screen_name=roberto_tassone)
 [![Linkedin: robertotassone](https://img.shields.io/badge/-robertotassone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertotassone/)](https://www.linkedin.com/in/robertotassone/)
@@ -36,3 +36,7 @@ var me = {
     funFact: "A programmer is a machine that turns coffee into code."
 };
 ```
+
+## Stats
+![tassoneroberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=tassoneroberto&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassoneroberto&layout=compact&langs_count=8&theme=github_dark)
