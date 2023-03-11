@@ -9,7 +9,7 @@ Software Engineer and Web Developer
 - 👨‍💻 Cybersecurity
 - <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png" width="18"> Crypto
 - 🤖 Bots
-- 🚀 Space science
+- 🚀🛰️ Space science
 
 Currently working as a <span><em>Software Engineer</em> at <a href="https://proton.me">Proton AG</a>.</span>
 
