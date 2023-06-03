@@ -11,8 +11,6 @@ Software Engineer and Web Developer
 - 🤖 Bots
 - 🚀🛰️ Space science
 
-Currently working as a <span><em>Software Engineer</em> at <a href="https://proton.me">Proton AG</a>.</span>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/roberto_tassone?label=Follow)](https://twitter.com/intent/follow?screen_name=roberto_tassone)
 [![Linkedin: robertotassone](https://img.shields.io/badge/-robertotassone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertotassone/)](https://www.linkedin.com/in/robertotassone/)
 ![GitHub followers](https://img.shields.io/github/followers/tassoneroberto?label=Follow&style=social)
