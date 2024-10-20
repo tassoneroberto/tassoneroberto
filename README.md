@@ -2,16 +2,15 @@
 
 Software Engineer and Web Developer
 
-<img align='right' src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="380">
-
 ## Interests
 
+<img align="right" src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="360" />
+
 - 👨‍💻 Cybersecurity
-- <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png" width="18"> Crypto
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1920px-Bitcoin.svg.png" width="18" /> Crypto
 - 🤖 Bots
 - 🚀🛰️ Space science
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/roberto_tassone?label=Follow)](https://twitter.com/intent/follow?screen_name=roberto_tassone)
 [![Linkedin: robertotassone](https://img.shields.io/badge/-robertotassone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertotassone/)](https://www.linkedin.com/in/robertotassone/)
 ![GitHub followers](https://img.shields.io/github/followers/tassoneroberto?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.robertotassone.com/)](https://www.robertotassone.com/)
